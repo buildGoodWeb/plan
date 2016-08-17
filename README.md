@@ -7,4 +7,7 @@ React,Webpack,ES6,esLint,Redux,React-redux
 - 2. 路由
 React-router, history
 (universal-router)
-- 3. 样式
+- 3. 实时reloading页面
+react-hot-loader
+- 4. 样式
+postcss
