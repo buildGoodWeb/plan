@@ -11,3 +11,6 @@ React-router, history
 react-hot-loader
 - 4. 样式
 postcss
+插件：css-loader,post-loader, rucksack-css
+- 4. middleware 和 console日志
+ 插件： react-router-redux or redux-logger
